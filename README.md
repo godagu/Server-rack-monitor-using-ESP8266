@@ -45,7 +45,7 @@ Logic:
 | R9 - R10 | 2 | 220 Ω Resistor |
 | R11 | 1 | 10 Ω Resistor |
 | F1 | 1 | Motor fan |
-| T1 | 1 | NPN transisgtor |
+| T1 | 1 | NPN transistor |
 | RE | 1 | Relay module |
 | F | 1 | Motor fan |
 | H | 1 | DHT11 Humidity and Temp sensor |
@@ -59,5 +59,6 @@ Logic:
 
 
  
+
 
 
