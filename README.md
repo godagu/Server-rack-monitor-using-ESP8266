@@ -46,7 +46,7 @@ Logic:
 | R11 | 1 | 10 Ω Resistor |
 | F1 | 1 | Motor fan |
 | T1 | 1 | NPN transisgtor |
-| RE | 1 | Relay |
+| RE | 1 | Relay module |
 | F | 1 | Motor fan |
 | H | 1 | DHT11 Humidity and Temp sensor |
 | P | 1 | Photoresistor |
@@ -59,4 +59,5 @@ Logic:
 
 
  
+
 
