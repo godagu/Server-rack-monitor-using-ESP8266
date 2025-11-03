@@ -39,8 +39,7 @@ Logic:
 | Name | Quantity | Component |
 |------|-----------|------------|
 | U1 | 1 | ESP8266 |
-| L1-L9 | 9 | LEDs |
-| D2 | 1 | Green LED |
+| L1 - L9 | 9 | LEDs |
 | R1 - R6| 6 | 1 kΩ Resistor |
 | R7 - R8 | 2 | 20 kΩ Resistor |
 | R9 - R10 | 2 | 220 Ω Resistor |
@@ -60,3 +59,4 @@ Logic:
 
 
  
+
