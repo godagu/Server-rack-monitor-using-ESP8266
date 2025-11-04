@@ -1,4 +1,4 @@
-# Reaction Time Game (Arduino)
+## Server Rack Monitor (ESP8266) 
 
 **Author:** Goda Gutparakyte  
 **Course:** Introduction to Robotics at Vilnius University  
@@ -59,6 +59,7 @@ Logic:
 
 
  
+
 
 
 
